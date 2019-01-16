@@ -1,0 +1,18 @@
+body{
+    color: rgb(111, 60, 250)
+}
+
+h1{
+    background:rgb(169, 245, 198);
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-size: 2em;
+    font-style: italic;
+}
+.holder-type{
+
+    color:orange;
+    margin-top: 10px;
+    font-family: "Arial", sans-serif;
+
+}
